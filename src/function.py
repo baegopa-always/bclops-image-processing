@@ -36,7 +36,7 @@ def evaluate():
 
     # 이미지 경로와 체크포인트 경로 설정
     image_path = './evalutate/image/input.png'  # 이미지 경로
-    ckpt_path = '../../assignment/model_epoch60.pth'  # 모델 체크포인트 경로
+    ckpt_path = 'evalutate/checkpoint/model_epoch60.pth'  # 모델 체크포인트 경로
 
     # 이미지 불러오기
     image = Image.open(image_path).convert('L')  # 흑백 이미지로 변환
