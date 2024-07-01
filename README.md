@@ -3,7 +3,7 @@
 ### 프로젝트 개요
 
 <p align="center">
-  <img src="https://file.notion.so/f/f/04e846d6-857c-4ddd-aea7-9dab39f443b8/061d1c7e-83b8-46d7-938a-d0e9c53263dd/bclops-logo.png?id=dd7b396c-8764-4455-8e84-2478bea444fd&table=block&spaceId=04e846d6-857c-4ddd-aea7-9dab39f443b8&expirationTimestamp=1717164000000&signature=nIRwicjn-vciiH8_5lUMn7IWnSGisB9DxQo48bb7MbY&downloadName=bclops-logo.png" height=300>
+  <img src="/statics/main.png" height=300>
 </p>
 
 ### 딥러닝과 이미지 처리 기법을 이용한 터널 내 절리 추출 앱 서비스
@@ -52,7 +52,7 @@
 ---
 ### 아키텍처
 <p align="center">
-  <img src="https://file.notion.so/f/f/04e846d6-857c-4ddd-aea7-9dab39f443b8/6f92fb79-1210-4d80-8fdf-f038ff22324a/Untitled.png?id=33a49613-1e7d-48d8-9965-f54e4e32e035&table=block&spaceId=04e846d6-857c-4ddd-aea7-9dab39f443b8&expirationTimestamp=1717164000000&signature=VfDCSnnxOsJJzCHuN2eSFbiMDIdsnvUFJg2yEBQH6d0&downloadName=Untitled.png" height=400>
+  <img src="/statics/architecture.png" height=400>
 </p>
 
 ---
